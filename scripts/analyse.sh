@@ -59,6 +59,18 @@ moyenne_temps() {
     awk '$9 == 200 {d=$11; sub(/ms/, "", d); somme+=d; n++}
     END {if(n>0) printf "%.1f ms\n", somme/n; else print "Aucune requête 200"}' "$FICHIER"
 }
+compter_par_heure() {
+    echo "=== Nombre de requêtes par heure ==="
+    awk '{
+        split($4, date, ":")
+        heures[date[2]]++
+    }
+    END {
+        for (h in heures)
+            printf "%s %d\n", h, heures[h]
+    }' "$FICHIER" | sort 
+}
+
 DATE=$(date +%Y%m%d_%H%M)
 RAPPORT="rapports/rapport_${MATRICULE}_${DATE}.txt"
 
@@ -77,7 +89,10 @@ RAPPORT="rapports/rapport_${MATRICULE}_${DATE}.txt"
     ip_suspecte
     echo
     moyenne_temps
+    echo
+    compter_par_heure
 
 } > "$RAPPORT"
 
 echo "Rapport créé : $RAPPORT"
+
