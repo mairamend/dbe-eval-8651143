@@ -11,7 +11,7 @@ if [[ $# -lt 1 || $# -gt 3 ]]; then
 fi
 
 FICHIER="$1"
-TOP=0
+TOP=3
 
 if [[ $# -eq 3 ]]; then
     [[ "$2" == "--top" && "$3" =~ ^[0-9]+$ ]] || usage
