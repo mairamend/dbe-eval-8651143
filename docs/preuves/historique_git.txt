@@ -1,0 +1,519 @@
+    1  2026-11-22 14:19:56 java --version
+    2  2026-11-22 14:19:56 ls
+    3  2026-11-22 14:19:56 cd mon_espace/
+    4  2026-11-22 14:19:56 ls
+    5  2026-11-22 14:19:56 cd java/
+    6  2026-11-22 14:19:56 ls
+    7  2026-11-22 14:19:56 cd exercices/
+    8  2026-11-22 14:19:56 ls
+    9  2026-11-22 14:19:56 cd java-chapitre4/chapitre7/
+   10  2026-11-22 14:19:56 ls
+   11  2026-11-22 14:19:56 mkdir exo_du_cours
+   12  2026-11-22 14:19:56 code .
+   13  2026-11-22 14:19:56 [200~java -version
+   14  2026-11-22 14:19:56 javac -version
+   15  2026-11-22 14:19:56 java -version
+   16  2026-11-22 14:19:56 readlink -f $(which javac)
+   17  2026-11-22 14:19:56 java exo_du_cours/Test.java
+   18  2026-11-22 14:19:56 cd mon_espace/java/exercices/java-chapitre4/
+   19  2026-11-22 14:19:56 mkdir chapitre8
+   20  2026-11-22 14:19:56 code chapitre8
+   21  2026-11-22 14:19:56 java chapitre8/SaisieRobuste.java
+   22  2026-11-22 14:19:56 cat /proc/cpuinfo
+   23  2026-11-22 14:19:56 free -h
+   24  2026-11-22 14:19:56 cls
+   25  2026-11-22 14:19:56 clear
+   26  2026-11-22 14:19:56 sudo apt update 
+   27  2026-11-22 14:19:56 sudo apt upgrade -y
+   28  2026-11-22 14:19:56 sudo apt install postgresql postgresql-contrib -y
+   29  2026-11-22 14:19:56 sudo systemctl status postgresql
+   30  2026-11-22 14:19:56 sudo -i -u postgres
+   31  2026-11-22 14:19:56 psql
+   32  2026-11-22 14:19:56 cd ../..
+   33  2026-11-22 14:19:56 mkdir projet_fil_rouge
+   34  2026-11-22 14:19:56 cd projet_fil_rouge/
+   35  2026-11-22 14:19:56 code .
+   36  2026-11-22 14:19:56 sudo modprobe -rv atkbd && sudo modprobatkbd
+   37  2026-11-22 14:19:56 man find
+   38  2026-11-22 14:19:56 grep -i "Bonjour"
+   39  2026-11-22 14:19:56 grep -i "Bonjour" Bonjour.java
+   40  2026-11-22 14:19:56 grep -i "Bonjour" Salut.java
+   41  2026-11-22 14:19:56 grep -i "Bonjour" mon_espace/java/exercices/java-chapitre4/chapitre1/Salut.java
+   42  2026-11-22 14:19:56 grep -w "root" /etc/passwd
+   43  2026-11-22 14:19:56 grep -wi "mairame" /etc/passwd
+   44  2026-11-22 14:19:56 cd mon_espace/java/exercices/java-chapitre4/chapitre8/
+   45  2026-11-22 14:19:56 code .
+   46  2026-11-22 14:19:56 cd ../chapitre7
+   47  2026-11-22 14:19:56 code .
+   48  2026-11-22 14:19:56 java exo_du_cours/Test.java
+   49  2026-11-22 14:19:56 git status
+   50  2026-11-22 14:19:56 java exo_du_cours/ArticleSolde.java
+   51  2026-11-22 14:19:56 javac exo_du_cours/ArticleSolde.java
+   52  2026-11-22 14:19:56 ls exo_du_cours/
+   53  2026-11-22 14:19:56 javac exo_du_cours/interfaces/ArticleSolde.java
+   54  2026-11-22 14:19:56 javac exo_du_cours/interfaces/*.java
+   55  2026-11-22 14:19:56 java Quiz.java
+   56  2026-11-22 14:19:56 java exo_du_cours.Quiz.java
+   57  2026-11-22 14:19:56 java exo_du_cours/Quiz.java
+   58  2026-11-22 14:19:56 cd ~/Téléchargements
+   59  2026-11-22 14:19:56 chmod u+x Obsidian*.AppImage
+   60  2026-11-22 14:19:56 ./Obsidian*.AppImage --no-sandbox
+   61  2026-11-22 14:19:56 sudo apt update
+   62  2026-11-22 14:19:56 sudo apt install libfuse2
+   63  2026-11-22 14:19:56 ./Obsidian*.AppImage --no-sandbox
+   64  2026-11-22 14:19:56 exit
+   65  2026-11-22 14:19:56 ./Obsidian*.AppImage --no-sandbox
+   66  2026-11-22 14:19:56 cd ~/Téléchargements/
+   67  2026-11-22 14:19:56 ./Obsidian*.AppImage --no-sandbox
+   68  2026-11-22 14:19:56 cd ~/Téléchargements/
+   69  2026-11-22 14:19:56 ./Obsidian*.AppImage --no-sandbox
+   70  2026-11-22 14:19:56 *
+   71  2026-11-22 14:19:56 clear
+   72  2026-11-22 14:19:56 cd ..
+   73  2026-11-22 14:19:56 cd mon_espace/
+   74  2026-11-22 14:19:56 ls
+   75  2026-11-22 14:19:56 cd java/
+   76  2026-11-22 14:19:56 ls
+   77  2026-11-22 14:19:56 cd projet_fil_rouge/
+   78  2026-11-22 14:19:56 code .
+   79  2026-11-22 14:19:56 git init
+   80  2026-11-22 14:19:56 git add .
+   81  2026-11-22 14:19:56 git commit -m "Premier commit avec les classes Livre et Membre"
+   82  2026-11-22 14:19:56 git branch -M main
+   83  2026-11-22 14:19:56 cd ../..
+   84  2026-11-22 14:19:56 mkdir git
+   85  2026-11-22 14:19:56 mkdir prepa_avaluation
+   86  2026-11-22 14:19:56 git init
+   87  2026-11-22 14:19:56 rm -f .git
+   88  2026-11-22 14:19:56 rm -rf .git
+   89  2026-11-22 14:19:56 cd prepa_avaluation/
+   90  2026-11-22 14:19:56 git init
+   91  2026-11-22 14:19:56 nano reponses.md
+   92  2026-11-22 14:19:56 git --version 
+   93  2026-11-22 14:19:56 nano main.java
+   94  2026-11-22 14:19:56 javac Main.java
+   95  2026-11-22 14:19:56 javac main.java 
+   96  2026-11-22 14:19:56 mv main.java Main.java
+   97  2026-11-22 14:19:56 ls
+   98  2026-11-22 14:19:56 javac main.java 
+   99  2026-11-22 14:19:56 javac Main.java
+  100  2026-11-22 14:19:56 ls
+  101  2026-11-22 14:19:56 cd mon_espace/prepa_avaluation/
+  102  2026-11-22 14:19:56 ls
+  103  2026-11-22 14:19:56 javac Main.java 
+  104  2026-11-22 14:19:56 nano README.md
+  105  2026-11-22 14:19:56 echo "# Calculatrice" > README.md
+  106  2026-11-22 14:19:56 ls
+  107  2026-11-22 14:19:56 git status
+  108  2026-11-22 14:19:56 git add Main.java README.md 
+  109  2026-11-22 14:19:56 git status
+  110  2026-11-22 14:19:56 git commit -m "Ajoute la methode addition et le README"
+  111  2026-11-22 14:19:56 git log
+  112  2026-11-22 14:19:56 git branch -M main
+  113  2026-11-22 14:19:56 git log
+  114  2026-11-22 14:19:56 git remote add origin https://github.com/mairamend/tp-git-Mairame-Thierno.git
+  115  2026-11-22 14:19:56 nano Main.java 
+  116  2026-11-22 14:19:56 git diff
+  117  2026-11-22 14:19:56 git add Main.java
+  118  2026-11-22 14:19:56 git diff
+  119  2026-11-22 14:19:56 git diff --staged
+  120  2026-11-22 14:19:56 git commit -m "Ajoute la méthode soustraction"
+  121  2026-11-22 14:19:56 git add reponses.md 
+  122  2026-11-22 14:19:56 git commit -m "Ajout du fichier reponsed.md"
+  123  2026-11-22 14:19:56 echo "# tp git pour l'evaluation " >> README.md 
+  124  2026-11-22 14:19:56 cat README.md 
+  125  2026-11-22 14:19:56 git add README.md 
+  126  2026-11-22 14:19:56 git commit -m "Ajout d'une autre ligne de description"
+  127  2026-11-22 14:19:56 git log --online --graph
+  128  2026-11-22 14:19:56 git log --oneline --graph
+  129  2026-11-22 14:19:56 git show cad2b98
+  130  2026-11-22 14:19:56 nano reponses.md 
+  131  2026-11-22 14:19:56 git log --oneline
+  132  2026-11-22 14:19:56 nano reponses.md 
+  133  2026-11-22 14:19:56 git status
+  134  2026-11-22 14:19:56 nano .gitignore
+  135  2026-11-22 14:19:56 git status
+  136  2026-11-22 14:19:56 git add -f Main.class && git commit -m "Ajoute Main.class (erreur)"
+  137  2026-11-22 14:19:56 git rm --cached Main.class
+  138  2026-11-22 14:19:56 git commit -m "Retire Main.class du suivi"
+  139  2026-11-22 14:19:56 ls
+  140  2026-11-22 14:19:56 nano Main.java 
+  141  2026-11-22 14:19:56 git restore Main.java 
+  142  2026-11-22 14:19:56 nano Main.java 
+  143  2026-11-22 14:19:56 echo "brouillon " >> README.md 
+  144  2026-11-22 14:19:56 git add README.md 
+  145  2026-11-22 14:19:56 git restore --staged README.md
+  146  2026-11-22 14:19:56 git status 
+  147  2026-11-22 14:19:56 git restore  README.md
+  148  2026-11-22 14:19:56 git status 
+  149  2026-11-22 14:19:56 git commit --amend -m "Retire le bytecode Main.class du suivi"
+  150  2026-11-22 14:19:56 echo "brouillon " >> README.md 
+  151  2026-11-22 14:19:56 git add README.md && git commit -m "Ajout d'une ligne inutile"
+  152  2026-11-22 14:19:56 git log --oneline
+  153  2026-11-22 14:19:56 git revert ab0a875
+  154  2026-11-22 14:19:56 git log --oneline
+  155  2026-11-22 14:19:56 git add .gitignore 
+  156  2026-11-22 14:19:56 git commit -m "test"
+  157  2026-11-22 14:19:56 git reset --soft HEAD~1
+  158  2026-11-22 14:19:56 git status 
+  159  2026-11-22 14:19:56 git switch --detach git switch --detach e9f74d2
+  160  2026-11-22 14:19:56 git switch --detach e9f74d2
+  161  2026-11-22 14:19:56 cat Main.java 
+  162  2026-11-22 14:19:56 git switch main
+  163  2026-11-22 14:19:56 nano reponses.md 
+  164  2026-11-22 14:19:56 ls
+  165  2026-11-22 14:19:56 code .
+  166  2026-11-22 14:19:56 git status
+  167  2026-11-22 14:19:56 git add reponses.md 
+  168  2026-11-22 14:19:56 git commit -m "Ajout des question 4,5,6 et 7"
+  169  2026-11-22 14:19:56 git push -u origin main 
+  170  2026-11-22 14:19:56 git branch 
+  171  2026-11-22 14:19:56 git switch -c multiplication
+  172  2026-11-22 14:19:56 git add Main.java 
+  173  2026-11-22 14:19:56 git commit -m "Ajout d'une methode static multiplication"
+  174  2026-11-22 14:19:56 git switch main
+  175  2026-11-22 14:19:56 cat Main.java 
+  176  2026-11-22 14:19:56 git log --oneline --graph --all
+  177  2026-11-22 14:19:56 git merge multiplication 
+  178  2026-11-22 14:19:56 git log --oneline --graph --all
+  179  2026-11-22 14:19:56 git switch -c titre 
+  180  2026-11-22 14:19:56 git add README.md 
+  181  2026-11-22 14:19:56 git commit -m "Ajout d'un conflit"
+  182  2026-11-22 14:19:56 git switch main 
+  183  2026-11-22 14:19:56 git add README.md 
+  184  2026-11-22 14:19:56 git commit -m "Ajout d'un conflit dans la branche main"
+  185  2026-11-22 14:19:56 git merge titre 
+  186  2026-11-22 14:19:56 nano README.md 
+  187  2026-11-22 14:19:56 git log --oneline --graph --all
+  188  2026-11-22 14:19:56 git branch -d multiplication titre 
+  189  2026-11-22 14:19:56 git status 
+  190  2026-11-22 14:19:56 git add reponses.md 
+  191  2026-11-22 14:19:56 git commit -m "Reponses des questions 9,10 et 11"
+  192  2026-11-22 14:19:56 git push
+  193  2026-11-22 14:19:56 git fetch 
+  194  2026-11-22 14:19:56 git status
+  195  2026-11-22 14:19:56 git pull 
+  196  2026-11-22 14:19:56 cd /tmp/ && git clone git@github.com:mairamend/tp-git-Mairame-Thierno.git poste2
+  197  2026-11-22 14:19:56 git clone https://github.com/mairamend/tp-git-Mairame-Thierno.git poste2 
+  198  2026-11-22 14:19:56 cd poste2
+  199  2026-11-22 14:19:56 nano Main.java 
+  200  2026-11-22 14:19:56 git commit -am "Ajoute la méthode division" && git push
+  201  2026-11-22 14:19:56 cd ..
+  202  2026-11-22 14:19:56 ls
+  203  2026-11-22 14:19:56 cd ~/mon_espace/git/
+  204  2026-11-22 14:19:56 ls
+  205  2026-11-22 14:19:56 cd ../prepa_avaluation/
+  206  2026-11-22 14:19:56 ls
+  207  2026-11-22 14:19:56 nano reponses.md 
+  208  2026-11-22 14:19:56 git add reponses.md 
+  209  2026-11-22 14:19:56 git commit -m "Modificationpour observer le push refusé a cause d'un pull"
+  210  2026-11-22 14:19:56 git push
+  211  2026-11-22 14:19:56 git pull
+  212  2026-11-22 14:19:56 git push 
+  213  2026-11-22 14:19:56 git config pull.rebase false
+  214  2026-11-22 14:19:56 git pull 
+  215  2026-11-22 14:19:56 git push
+  216  2026-11-22 14:19:56 git add reponses.md 
+  217  2026-11-22 14:19:56 git commit -m "reponses aux question 12,13 et 14"
+  218  2026-11-22 14:19:56 git push
+  219  2026-11-22 14:20:02 javac -v
+  220  2026-11-22 14:20:17 ls -l
+  221  2026-11-22 14:20:25 ls --list
+  222  2026-11-22 14:26:16 man cd
+  223  2026-11-22 14:27:32 man passwd
+  224  2026-11-22 14:29:11 man 5 passwd 
+  225  2026-11-22 14:31:01 whatis cd
+  226  2026-11-22 14:31:10 whatis clear
+  227  2026-11-22 14:32:25 man shutdown 
+  228  2026-11-22 14:36:41 history
+  229  2026-11-22 14:40:51 clear
+  230  2026-11-22 14:43:51 man date
+  231  2026-11-22 14:46:54 date +%j 22092026
+  232  2026-11-22 14:48:13 date -d 20260922 +%j
+  233  2026-11-22 14:52:43 date -d 20261122 +%j
+  234  2026-11-22 14:52:58 echo (365 - 326)
+  235  2026-11-22 14:53:24 echo $((365 - 326))
+  236  2026-11-22 15:08:08 cd /
+  237  2026-11-22 15:08:13 cd ~
+  238  2026-11-22 15:15:42 cd mon_espace/
+  239  2026-11-22 15:15:53 cd ./java/
+  240  2026-11-22 15:16:06 cd ../
+  241  2026-11-22 15:17:37 pwd
+  242  2026-11-22 15:18:26 cd 
+  243  2026-11-22 15:19:59 ls -a
+  244  2026-11-22 15:20:39 ls -i
+  245  2026-11-22 15:20:47 ls -l
+  246  2026-11-22 15:27:58 alias ll='ls -l --color=auto'
+  247  2026-11-22 15:28:02 ll
+  248  2026-11-22 15:28:26 man ls
+  249  2026-11-22 15:35:30 cd mon_espace/
+  250  2026-11-22 15:35:53 >-dur-dur
+  251  2026-11-22 15:35:56 ls
+  252  2026-11-22 15:36:17 >dur-dur
+  253  2026-11-22 15:36:20 ls
+  254  2026-11-22 15:36:59 rm -f -- -dur-dur
+  255  2026-11-22 15:37:01 ls
+  256  2026-11-22 15:37:13 rm -f dur-dur 
+  257  2026-11-22 15:38:52 file /etc/passwd
+  258  2026-11-22 15:39:14 more /etc/passwd
+  259  2026-11-22 15:39:22 clear
+  260  2026-11-22 15:40:13 les /etc/passwd
+  261  2026-11-22 15:40:24 less /etc/passwd
+  262  2026-11-22 15:49:26 find salut.java
+  263  2026-11-22 15:49:41 find compte.java
+  264  2026-11-22 16:05:23 alias
+  265  2026-11-22 17:22:40 sudo
+  266  2026-11-22 17:22:50 sudo -s
+  267  2026-11-22 17:40:29 man ls
+  268  2026-11-22 17:42:02 whatis ls
+  269  2026-11-22 18:01:14 id 
+  270  2026-11-22 18:01:25 whoami
+  271  2026-11-22 18:01:35 id
+  272  2026-11-22 18:01:42 who
+  273  2026-11-22 18:18:33 pw
+  274  2026-11-22 18:18:41 pwd
+  275  2026-11-22 18:18:58 cd /tmp/
+  276  2026-11-22 18:19:09 pwd
+  277  2026-11-22 18:19:22 cd ..
+  278  2026-11-22 18:19:30 pwd
+  279  2026-11-22 18:19:35 cd 
+  280  2026-11-22 18:43:21 find /home/mairame/mon_espace -name "Compte.java"
+  281  2026-11-22 18:43:35 find /home/mairame/mon_espace -name "Salut.java"
+  282  2026-11-22 18:43:59 pwd
+  283  2026-11-22 18:44:19 find /home/mairame-thierno/mon_espace -name "Compte.java"
+  284  2026-11-22 18:44:37 find /home/mairame-thierno/mon_espace -name "Salut.java"
+  285  2026-11-22 18:47:48 find /home -name  "*.pdf"
+  286  2026-11-22 18:50:15 find /home -type d "java"
+  287  2026-11-22 18:51:35 find /home -type d -name "java"
+  288  2026-11-22 18:52:08 man find
+  289  2026-11-22 19:10:51 ls /home | wc -l
+  290  2026-11-22 19:11:45 ls
+  291  2026-11-22 19:12:36 ls /home | grep "Java"
+  292  2026-11-22 19:14:08 ls -lia /home | tee liste.txt
+  293  2026-11-22 19:14:20 ls
+  294  2026-11-22 19:14:29 cat liste.txt 
+  295  2026-11-22 19:15:49 unalias ll
+  296  2026-11-22 19:15:54 ll
+  297  2026-11-22 20:17:37 parted -l
+  298  2026-11-23 09:19:28 clear
+  299  2026-11-23 09:19:40 false | true
+  300  2026-11-23 09:19:50 $?
+  301  2026-11-23 09:20:00 echo $?
+  302  2026-11-23 09:20:06 false | true
+  303  2026-11-23 09:20:08 echo $?
+  304  2026-11-23 09:21:22 set -o pipefail
+  305  2026-11-23 09:21:48 false | true
+  306  2026-11-23 09:21:57 echo $?
+  307  2026-11-23 09:26:49 var="mon rapport.txt"
+  308  2026-11-23 09:26:49 echo "$var"
+  309  2026-11-23 09:26:49 echo '$var'
+  310  2026-11-23 09:26:49 echo $var
+  311  2026-11-23 09:27:11 touch "mon rapport.txt"
+  312  2026-11-23 09:27:11 ls "mon rapport.txt"
+  313  2026-11-23 09:27:11 ls mon rapport.txt
+  314  2026-11-23 09:35:57 nano test.sh
+  315  2026-11-23 09:37:06 bash test.sh bonjour "mon rapport" 25
+  316  2026-11-23 09:46:45 sleep 100 &
+  317  2026-11-23 09:46:52 echo $!
+  318  2026-11-23 09:47:04 kill -15 PID
+  319  2026-11-23 09:47:18 kill -15 25459
+  320  2026-11-23 10:03:21 sleep 300 &
+  321  2026-11-23 10:03:28 jobs
+  322  2026-11-23 10:03:37 ps -o pid,ppid,stat,cmd -p $!
+  323  2026-11-23 10:11:39 cat > acces.log <<'EOF'
+10.0.0.1 - - [23/Nov/2026:08:30:00 +0000] "GET /api/notes HTTP/1.1" 200 120 35ms
+10.0.0.2 - - [23/Nov/2026:08:31:00 +0000] "GET /api/notes HTTP/1.1" 404 120 35ms
+10.0.0.3 - - [23/Nov/2026:08:32:00 +0000] "POST /api/login HTTP/1.1" 500 120 50ms
+10.0.0.4 - - [23/Nov/2026:08:33:00 +0000] "GET /api/cours HTTP/1.1" 201 120 20ms
+EOF
+
+  324  2026-11-23 10:12:01 grep -E '" [45][0-9]{2} ' acces.log
+  325  2026-11-23 10:19:35 mkdir -p test_find
+  326  2026-11-23 10:19:35 touch test_find/a.log test_find/b.log test_find/c.txt
+  327  2026-11-23 10:19:35 echo "Bonjour" > test_find/a.log
+  328  2026-11-23 10:19:35 echo "Bonjour" >> test_find/a.log
+  329  2026-11-23 10:19:35 echo "Salut" > test_find/b.log
+  330  2026-11-23 10:19:48 find test_find -name "*.log" -exec wc -l {} \;
+  331  2026-11-23 10:20:00 find test_find -name "*.log" -exec wc -l {} +
+  332  2026-11-23 10:25:46 echo "Bonjour Linux" > original.txt
+  333  2026-11-23 10:26:02 ln original.txt lien_physique
+  334  2026-11-23 10:26:16 ln -s original.txt lien_symbolique
+  335  2026-11-23 10:26:30 ls -li original.txt lien_physique lien_symbolique
+  336  2026-11-23 10:27:30 rm original.txt
+  337  2026-11-23 10:27:43 cat lien_physique 
+  338  2026-11-23 10:27:55 cat lien_symbolique 
+  339  2026-11-23 10:34:01 VAR=1
+  340  2026-11-23 10:34:01 bash -c 'echo $VAR'
+  341  2026-11-23 10:34:11 export VAR=1
+  342  2026-11-23 10:34:11 bash -c 'echo $VAR'
+  343  2026-11-23 10:36:21 echo $PATH
+  344  2026-11-23 10:36:32 which ls
+  345  2026-11-23 10:45:25 clear
+  346  2026-11-23 10:58:59 mkdir -p ~/dbe-eval-8651143/{src,scripts,log,docs,preuves,rapports,rendus}
+  347  2026-11-23 10:59:05 cd dbe-eval-8651143/
+  348  2026-11-23 10:59:10 ls
+  349  2026-11-23 11:01:02 echo 'export MATRICULE="8651143"' >> ~/.bashrc
+  350  2026-11-23 11:01:18 echo 'export HISTTIMEFORMAT="%F %T "' >> ~/.bashrc
+  351  2026-11-23 11:02:06 source ~/bashrc
+  352  2026-11-23 11:02:15 source ~/.bashrc
+  353  2026-11-23 11:02:27 man source
+  354  2026-11-23 11:02:54 echo "$MATRICULE"
+  355  2026-11-23 11:03:59 script -q --timing=docs/preuves/linux.tm docs/preuves/linux.log
+  356  2026-11-23 11:05:03 ls
+  357  2026-11-23 11:06:32 mkdir docs/preuves
+  358  2026-11-23 11:06:36 script -q --timing=docs/preuves/linux.tm docs/preuves/linux.log
+  359  2026-11-23 12:07:21 tar czf rendus/linux_${MATRICULE}.tar.gz src scripts docs rapports
+  360  2026-11-23 12:07:42 sha256sum rendus/linux_${MATRICULE}.tar.gz
+  361  2026-11-23 12:35:48 ls -l ~/.ssh/id_ed25519.pub
+  362  2026-11-23 12:36:53 ssh-keygen -t ed25519 -C "mariemetierno@gmail.com"
+  363  2026-11-23 12:37:56 ls -l ~/.ssh/
+  364  2026-11-23 12:41:57 git config --global init.defaultBranch main 
+  365  2026-11-23 12:42:39 git config --global gpg.format ssh
+  366  2026-11-23 12:43:12 git config --global user.signingkey ~/.ssh/id_ed25519.pub
+  367  2026-11-23 12:43:26 git config --global commit.gpgsign true
+  368  2026-11-23 12:43:39 git config --global tag.gpgSign true
+  369  2026-11-23 12:43:52 git config --global --list
+  370  2026-11-23 12:44:45 git config --global --unset unser.name
+  371  2026-11-23 12:44:45 git config --global --unset unser.email
+  372  2026-11-23 12:46:53 cat ~/.ssh/id_ed25519.pub
+  373  2026-11-23 12:53:10 ssh -T git@github.com
+  374  2026-11-23 12:54:28 git init 
+  375  2026-11-23 12:54:36 git status
+  376  2026-11-23 12:55:52 nano .gitignore
+  377  2026-11-23 12:56:54 cat .gitignore 
+  378  2026-11-23 12:57:56 git status
+  379  2026-11-23 13:02:16 git add src/
+  380  2026-11-23 13:02:16 git commit -m "Ajoute le générateur de logs Java"
+  381  2026-11-23 13:03:01 git add scripts/
+  382  2026-11-23 13:03:01 git commit -m "Ajoute les scripts d'analyse et de surveillance"
+  383  2026-11-23 13:03:11 git add .gitignore docs/ rapports/
+  384  2026-11-23 13:03:11 git commit -m "Ajoute la documentation et les rapports"
+  385  2026-11-23 13:03:42 git add rendus/
+  386  2026-11-23 13:03:42 git commit -m "Ajoute l'archive de la partie Linux"
+  387  2026-11-23 13:03:56 git log --oneline
+  388  2026-11-23 13:08:08 git remote add origin https://github.com/mairamend/dbe-eval-8651143.git
+  389  2026-11-23 13:08:35 git push -u origin main
+  390  2026-11-23 13:15:14 git switch -c ci/pipeline
+  391  2026-11-23 13:16:58 mkdir -p .github/workflows
+  392  2026-11-23 13:17:10 nano .github/workflows/ci.yml
+  393  2026-11-23 13:17:45 cat .github/workflows/ci.yml
+  394  2026-11-23 13:17:52 clear
+  395  2026-11-23 13:18:03 git add .github/workflows/ci.yml
+  396  2026-11-23 13:18:03 git commit -m "Ajoute le pipeline d'intégration continue"
+  397  2026-11-23 13:18:15 git push -u origin ci/pipeline
+  398  2026-11-23 13:29:03 git switch main
+  399  2026-11-23 13:29:03 git pull origin main
+  400  2026-11-23 13:29:21 git log --oneline -5
+  401  2026-11-23 13:30:34 git remote -v
+  402  2026-11-23 13:30:48 git log --show-signature -1
+  403  2026-11-23 13:31:36 git config --show-origin --get gpg.format
+  404  2026-11-23 13:31:36 git config --show-origin --get user.signingkey
+  405  2026-11-23 13:31:36 git config --show-origin --get commit.gpgsign
+  406  2026-11-23 13:31:53 git config --show-origin --get gpg.program
+  407  2026-11-23 13:32:05 git log --show-signature -1 ci/pipeline
+  408  2026-11-23 13:45:11 printf '%s %s\n' "$(git config user.email)" "$(cat ~/.ssh/id_ed25519.pub)" > ~/.ssh/allowed_signers
+  409  2026-11-23 13:45:32 git config --global gpg.ssh.allowedSignersFile ~/.ssh/allowed_signers
+  410  2026-11-23 13:49:58 git log --show-signature -5
+  411  2026-11-23 13:53:57 git switch main
+  412  2026-11-23 13:53:57 git pull origin main
+  413  2026-11-23 13:54:03 git switch -c feature/heures
+  414  2026-11-23 13:54:47 cat scripts/analyse.sh
+  415  2026-11-23 13:55:51 nano scripts/analyse.sh 
+  416  2026-11-23 13:57:21 bash -n scripts/analyse.sh
+  417  2026-11-23 13:57:39 git add scripts/analyse.sh
+  418  2026-11-23 13:57:39 git commit -m "wip 1"
+  419  2026-11-23 13:58:28 nano scripts/analyse.sh 
+  420  2026-11-23 14:34:12 cat scripts/analyse.sh 
+  421  2026-11-23 14:35:24 nano scripts/analyse.sh 
+  422  2026-11-23 14:39:27 bash -n scripts/analyse.sh
+  423  2026-11-23 14:39:27 MATRICULE=8651143 bash scripts/analyse.sh logs/access.log --top 3
+  424  2026-11-23 14:41:44 bash -n scripts/analyse.sh
+  425  2026-11-23 14:41:53 MATRICULE=8651143 bash scripts/analyse.sh logs/access.log --top 3
+  426  2026-11-23 14:42:04 tail -n 12 rapports/rapport_*.txt
+  427  2026-11-23 14:44:23 git add scripts/analyse.sh
+  428  2026-11-23 14:44:23 git commit -m "wip 2"
+  429  2026-11-23 14:47:03 bash -n scripts/analyse.sh
+  430  2026-11-23 14:47:03 MATRICULE=8651143 bash scripts/analyse.sh logs/access.log
+  431  2026-11-23 14:47:37 tail -n 8 rapports/rapport_8651143_20261123_1447.txt
+  432  2026-11-23 14:48:05 git add scripts/analyse.sh
+  433  2026-11-23 14:48:05 git commit -m "wip 3"
+  434  2026-11-23 14:48:12 git log --oneline -5
+  435  2026-11-23 14:49:05 git switch main
+  436  2026-11-23 14:49:35 cat > README.md <<'EOF'
+# Analyseur de logs API
+
+## Description
+Projet Linux et Git/GitHub permettant de générer et d'analyser
+des journaux d'accès d'une API backend.
+Le script analyse les codes HTTP, les endpoints, les IP suspectes,
+les temps de réponse et le nombre de requêtes par heure.
+
+## Utilisation
+
+Générer un journal :
+java -cp out GenerateurLogs 8651143 2000 > logs/access.log
+
+Lancer l'analyse :
+MATRICULE=8651143 bash scripts/analyse.sh logs/access.log
+
+Afficher les 5 endpoints les plus utilisés :
+MATRICULE=8651143 bash scripts/analyse.sh logs/access.log --top 5
+
+Le rapport est enregistré dans le dossier rapports/.
+
+## Auteur
+Mairame Thierno Ndiath
+Matricule : 8651143
+EOF
+
+  437  2026-11-23 14:49:49 cat README.md
+  438  2026-11-23 14:49:49 git add README.md
+  439  2026-11-23 14:49:49 git commit -m "Ajoute le README du projet"
+  440  2026-11-23 14:49:58 git log --oneline -5
+  441  2026-11-23 14:50:33 git switch feature/heures
+  442  2026-11-23 14:50:46 git -c core.editor=nano rebase -i main
+  443  2026-11-23 14:53:48 git log --oneline -5
+  444  2026-11-23 14:54:28 git switch main
+  445  2026-11-23 14:54:38 git merge --ff-only feature/heures
+  446  2026-11-23 14:54:51 git log --oneline --graph -6
+  447  2026-11-23 14:56:00 git push origin main
+  448  2026-11-23 14:57:22 echo -e "\n## Notes temporaires\nModification en cours." >> README.md
+  449  2026-11-23 14:57:52 git status
+  450  2026-11-23 14:58:16 git stash push -m "readme en cours"
+  451  2026-11-23 14:58:26 git status
+  452  2026-11-23 14:58:37 git stash list
+  453  2026-11-23 14:58:52 git stash list | tee -a docs/git.md
+  454  2026-11-23 14:59:47 git switch main
+  455  2026-11-23 14:59:56 git switch -c release/1.0 HEAD~1
+  456  2026-11-23 15:00:16 git switch main
+  457  2026-11-23 15:00:16 nano scripts/analyse.sh
+  458  2026-11-23 15:01:57 bash -n scripts/analyse.sh
+  459  2026-11-23 15:01:57 git add scripts/analyse.sh
+  460  2026-11-23 15:01:57 git commit -m "Corrige le message d'usage"
+  461  2026-11-23 15:02:51 git switch release/1.0
+  462  2026-11-23 15:02:58 git cherry-pick -x 64a09b1
+  463  2026-11-23 15:03:08 git log --oneline -4
+  464  2026-11-23 15:03:54 git show -s --format=%B HEAD
+  465  2026-11-23 15:06:58 git switch main
+  466  2026-11-23 15:07:10 git stash pop
+  467  2026-11-23 15:07:50 git status
+  468  2026-11-23 15:08:58 git branch
+  469  2026-11-23 15:09:10 nano scripts/analyse.sh
+  470  2026-11-23 15:10:20 git add scripts/analyse.sh
+  471  2026-11-23 15:10:20 git commit -m "Change le top par défaut"
+  472  2026-11-23 15:10:32 git push origin main
+  473  2026-11-23 15:12:11 git log --oneline -3
+  474  2026-11-23 15:13:22 git revert 3b6a000
+  475  2026-11-23 15:13:57 grep 'TOP=' scripts/analyse.sh
+  476  2026-11-23 15:13:57 git log --oneline -4
+  477  2026-11-23 15:13:57 git push origin main
+  478  2026-11-23 15:15:13 grep 'TOP=' scripts/analyse.sh
+  479  2026-11-23 15:15:13 git log --oneline -4
+  480  2026-11-23 15:15:39 V
+  481  2026-11-23 15:16:33 git push origin main
+  482  2026-11-23 15:17:13 grep 'TOP=' scripts/analyse.sh
+  483  2026-11-23 15:17:27 git tag -s v1.0 -m "Version 1.0"
+  484  2026-11-23 15:17:41 git tag -v v1.0
+  485  2026-11-23 15:18:03 git push origin v1.0
+  486  2026-11-23 15:24:20 git reflog -n 60 > docs/preuves/reflog.txt
+  487  2026-11-23 15:24:31 history > docs/preuves/historique_git.txt
