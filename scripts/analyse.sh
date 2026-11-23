@@ -2,7 +2,7 @@
 set -euo pipefail
 
 usage() {
-    echo "Usage : bash scripts/analyse.sh <fichier.log> [--top N]" >&2
+    echo "Usage : bash scripts/analyse.sh <fichier.log> [--top N] (exemple : --top 5)" >&2
     exit 1
 }
 
