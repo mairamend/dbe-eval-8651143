@@ -1,0 +1,22 @@
+RAPPORT D'ANALYSE DES LOGS
+Date : lun. 23 nov. 2026 11:54:17 GMT
+Utilisateur / Machine : mairame-thierno@mairame-thierno-ThinkPad-T480
+Matricule : 8651143
+SHA256 : 907bf47d0d145a917da22f7917a835e5afbf97c3060a1e84ff6fdc71da3b1ed0
+
+=== Codes HTTP ===
+2xx : 1716
+3xx : 0
+4xx : 255
+5xx : 29
+
+=== Top 3 endpoints ===
+    411 /api/auth/login
+    278 /api/paiements
+    272 /api/cours
+
+=== IP avec le plus de réponses 401 sur /api/auth/login ===
+    126 197.149.36.4
+
+=== Durée moyenne des réponses 200 ===
+165,0 ms

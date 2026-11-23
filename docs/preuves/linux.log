@@ -1,0 +1,367 @@
+Script démarré sur 2026-11-23 11:06:36+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="77" LINES="35"]
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ git pushcommit -m "reponses aux question 12,13 et 14"[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [C[C[C[Cadd reponses.md [K[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [C[C[C[C[3Ppush
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cll config pull.rebase false[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [C[C[C[C[2Ppush
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pllshcommit -m "Modificationpour observer le push refusé a cause d'un pull"[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [C[C[C[Cadd reponses.md [K[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nano reponse[3P[C[C[C[C[C[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../prepa_avaluation/[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kecho "£[K$MATR ICLE[K[KULES3[K"
+[?2004l
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ echo "$MATRICULES"[1P"
+[?2004l8651143
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ mk[K[Knano src/Ge nerateurLogs.java
+[?2004l[?2004h[?1049h[22;0;0t[1;35r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[33;30H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 7.2               src/GenerateurLogs.java                         [1;76H(B[m[34d(B[0;7m^G(B[m Aide[34;16H(B[0;7m^O(B[m Écrire[31G(B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper[61G(B[0;7m^T(B[m Exécuter[35d(B[0;7m^X(B[m Quitter     (B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller[61G(B[0;7m^J(B[m Justifier[2d[?12l[?25h[?25l[1;54H(B[0;7m*[33d(B[m[K[1;76H[2d[36mimport[39m(B[m java.util.Random;[3d(B[0;1m[34m/**[4d* Génère un journal d'accès d'API back-end, propre à chaque étudiant.[5d* Usage : java -cp out GenerateurLogs <matricule> <nombreDeLignes>[6d*/[7d(B[0m[36mpublic[39m(B[m [36mclass[39m(B[m GenerateurLogs {[8d[36mstatic[39m(B[m [36mfinal[39m(B[m String[] ENDPOINTS = {[9d[31m"/api/etudiants"[39m(B[m, [31m"/api/etudiants/"[39m(B[m, [31m"/api/notes"[39m(B[m, [31m"/api/cours"[39m(B[m,[10d[31m"/api/auth/login"[39m(B[m, [31m"/api/paiements"[39m(B[m, [31m"/api/health"[11d[39m(B[m};[12d[36mpublic[39m(B[m [36mstatic[39m(B[m [32mvoid[39m(B[m main(String[] args) {[13d[31mif[39m(B[m (args.length != 2) {[14dSystem.err.println("Usage : java -cp out GenerateurLogs <matricule>[15d<nombreDeLignes>");[16dSystem.exit(1);[17d}[18d[32mint[39m(B[m n;[19d[31mtry[39m(B[m {[20dn = Integer.parseInt(args[1]);[21d} [31mcatch[39m(B[m (NumberFormatException e) {[22dSystem.err.println([31m"Erreur : le nombre de lignes doit être un entier"[39m(B[m);[23dSystem.exit(2);[24d[31mreturn[39m(B[m;[25d}[26dRandom r = [32mnew[39m(B[m Random(args[0].hashCode());[27dString suspecte = [31m"197.149."[39m(B[m + r.nextInt(256) + [31m"."[39m(B[m + (1 + r.nextInt(254));[28d[32mint[39m(B[m seconde = 8 * 3600;[29d[31mfor[39m(B[m ([32mint[39m(B[m i = 0; i < n; i++) {[30dseconde += 1 + r.nextInt(12);[?12l[?25h[?25l[31d[?12l[?25h[?25l[2dstatut = t < 6 ? 500 : (t < 10 ? 503 : (methode.equals([31m"POST"[39m(B[m) ? 201 :[3d200));[4d[31mif[39m(B[m (r.nextInt(100) < 5) {[K[5dduree = 1500 + r.nextInt(1500);[K[6d}[K[7d[31mbreak[39m(B[m;[K[8d[31mdefault[39m(B[m:[K[9d[31mbreak[39m(B[m;[K[10d}[K[11d[32mint[39m(B[m octets = statut >= 400 ? 60 + r.nextInt(100) : 200 + r.nextInt(4000);[12dSystem.out.printf([31m"%s - - [23/Nov/2026:%02d:%02d:%02d +0000] \"[39m(B[m%s %s HTTP/1.(B[0;7m>[13;1H(B[m%d %d %dms%n",[K[14dip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,[15dstatut, octets, duree);[16d}[K[18d[K[19d[K[20d[K[21d[K[22d[K[23d[K[24d[K[25d[K[26d[K[27d[K[28d[K[29d[K[30d[K[17d}[?12l[?25h[?25l[18d[?12l[?25h[?25l[?12l[?25h}[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: src/GenerateurLogs.java                             [33;49H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;54H(B[0;7m [76G(B[m[33;29H(B[0;7m[ 70 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[18d}[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ls
+[?2004l[0m[01;34mdocs[0m  [01;34mlog[0m  [01;34mpreuves[0m  [01;34mrapports[0m  [01;34mrendus[0m  [01;34mscripts[0m  [01;34msrc[0m
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ls src:[K/
+[?2004lGenerateurLogs.java
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ mkdir -p ou t 
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ javac -enco ding UTF_[K-9[K8 -d src/GenerateurLogs.java
+[?2004lerror: no source files
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ javac -encoding UTF-8 -d src/GenerateurLogs.java[C[C[C[C[C[C src/GenerateurLogs.java[C[C[C[C[C[C[C[C[C[C[C[C[C[Co src/GenerateurLogs.java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu src/GenerateurLogs.java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct src/GenerateurLogs.java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C src/GenerateurLogs.java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Psrc/GenerateurLogs.java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lsrc/GenerateurLogs.java:13: error: unclosed string literal
+System.err.println("Usage : java -cp out GenerateurLogs <matricule>
+                   ^
+src/GenerateurLogs.java:14: error: unclosed string literal
+<nombreDeLignes>");
+                ^
+src/GenerateurLogs.java:64: error: unclosed string literal
+System.out.printf("%s - - [23/Nov/2026:%02d:%02d:%02d +0000] \"%s %s HTTP/1.1\"
+                  ^
+src/GenerateurLogs.java:65: error: unclosed string literal
+%d %d %dms%n",
+            ^
+src/GenerateurLogs.java:65: error: not a statement
+%d %d %dms%n",
+          ^
+src/GenerateurLogs.java:66: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+^
+src/GenerateurLogs.java:66: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+  ^
+src/GenerateurLogs.java:66: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+            ^
+src/GenerateurLogs.java:66: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                  ^
+src/GenerateurLogs.java:66: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                             ^
+src/GenerateurLogs.java:66: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                 ^
+src/GenerateurLogs.java:66: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                 ^
+src/GenerateurLogs.java:66: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                     ^
+src/GenerateurLogs.java:66: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                       ^
+src/GenerateurLogs.java:66: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                              ^
+src/GenerateurLogs.java:66: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                                ^
+src/GenerateurLogs.java:66: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                                      ^
+src/GenerateurLogs.java:67: error: not a statement
+statut, octets, duree);
+^
+src/GenerateurLogs.java:67: error: ';' expected
+statut, octets, duree);
+      ^
+src/GenerateurLogs.java:67: error: not a statement
+statut, octets, duree);
+        ^
+src/GenerateurLogs.java:67: error: ';' expected
+statut, octets, duree);
+              ^
+src/GenerateurLogs.java:67: error: not a statement
+statut, octets, duree);
+                ^
+src/GenerateurLogs.java:67: error: ';' expected
+statut, octets, duree);
+                     ^
+23 errors
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ code .
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ code .javac -encoding UTF-8 -d out src/GenerateurLogs.java
+[?2004lsrc/GenerateurLogs.java:63: error: unclosed string literal
+System.out.printf("%s - - [23/Nov/2026:%02d:%02d:%02d +0000] \"%s %s HTTP/1.1\"
+                  ^
+src/GenerateurLogs.java:64: error: unclosed string literal
+%d %d %dms%n",
+            ^
+src/GenerateurLogs.java:64: error: not a statement
+%d %d %dms%n",
+          ^
+src/GenerateurLogs.java:65: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+^
+src/GenerateurLogs.java:65: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+  ^
+src/GenerateurLogs.java:65: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+            ^
+src/GenerateurLogs.java:65: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                  ^
+src/GenerateurLogs.java:65: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                             ^
+src/GenerateurLogs.java:65: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                 ^
+src/GenerateurLogs.java:65: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                 ^
+src/GenerateurLogs.java:65: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                     ^
+src/GenerateurLogs.java:65: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                       ^
+src/GenerateurLogs.java:65: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                              ^
+src/GenerateurLogs.java:65: error: not a statement
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                                ^
+src/GenerateurLogs.java:65: error: ';' expected
+ip, seconde / 3600, (seconde / 60) % 60, seconde % 60, methode, chemin,
+                                                                      ^
+src/GenerateurLogs.java:66: error: not a statement
+statut, octets, duree);
+^
+src/GenerateurLogs.java:66: error: ';' expected
+statut, octets, duree);
+      ^
+src/GenerateurLogs.java:66: error: not a statement
+statut, octets, duree);
+        ^
+src/GenerateurLogs.java:66: error: ';' expected
+statut, octets, duree);
+              ^
+src/GenerateurLogs.java:66: error: not a statement
+statut, octets, duree);
+                ^
+src/GenerateurLogs.java:66: error: ';' expected
+statut, octets, duree);
+                     ^
+21 errors
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ javac -encoding UTF-8 -d out src/GenerateurLogs.java
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mjava -cp ou[27m[7mt[27m[7m GenerateurLogs 8651143 2000 > logs/access.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ java -cp out GenerateurLogs 8651143 2000 > logs/access.log
+[?2004lbash: logs/access.log: Aucun fichier ou dossier de ce nom
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mjava -cp ou[27m[7mt[27m[7m GenerateurLogs 2> logs/gen.err[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ java -cp out GenerateurLogs 2> logs/gen.err
+[?2004lbash: logs/gen.err: Aucun fichier ou dossier de ce nom
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ mv log logs [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ks
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ mv log logs [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava -cp out GenerateurLogs 2> logs/gen.err
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ $?
+[?2004l1 : commande introuvable
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ echo "$?"
+[?2004l127
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ echo "$?"$?[Kjava -cp out GenerateurLogs 2> logs/gen.err
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ java -cp out GenerateurLogs 2> logs/gen.err[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [2Pecho "$?"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l1
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mcat logs/ge[27m[7mn[27m[7m.err[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ cat logs/gen.err
+[?2004lUsage : java -cp out GenerateurLogs <matricule> <nombreDeLignes>
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mjava -cp ou[27m[7mt[27m[7m GenerateurLogs 8651143 2000 > logs/access.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ java -cp out GenerateurLogs 8651143 2000 > logs/access.log
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ wc -l logs/ access.log 
+[?2004l2000 logs/access.log
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ head -n 1 l ogs.[K/access.log 
+[?2004l10.0.3.20 - - [23/Nov/2026:08:00:04 +0000] "GET /api/etudiants/66 HTTP/1.1" 404 126 301ms
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk '{print[27m[7m [27m[7m$9}' logs/access.log | sort | uniq -c | sort -nr[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ awk '{print $9}' logs/access.log | sort | uniq -c | sort -nr
+[?2004l   1591 200
+    187 401
+    125 201
+     44 404
+     24 400
+     16 503
+     13 500
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk -F'"' '[27m[7m{[27m[7mprint $2}' logs/access.log | awk '{print $2}' | cut -d'?' -f1 | sort | uniq [27m[7m-[27m[7mc | sort -nr | head -3[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ awk -F'"' '{print $2}' logs/access.log | awk '{print $2}' | cut -d'?' -f1 | sort | uniq -c | sort -nr | head -3
+[?2004l    411 /api/auth/login
+    278 /api/paiements
+    272 /api/cours
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk '{print[27m[7m [27m[7m$1}' logs/access.log | sort -u | wc -l[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ awk '{print $1}' logs/access.log | sort -u | wc -l
+[?2004l61
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk '$9 == [27m[7m4[27m[7m01 && $7 == "/api/auth/login" {print $1}' logs/access.log | sort | uniq -c |[27m[7m [27m[7msort -nr | head -1[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ awk '$9 == 401 && $7 == "/api/auth/login" {print $1}' logs/access.log | sort | uniq -c | sort -nr | head -1
+[?2004l    126 197.149.36.4
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk '$9 == [27m[7m2[27m[7m00 {gsub(/ms/, "", $11); somme += $11; n++} END {if (n > 0) printf "%.1f ms\[27m[7mn[27m[7m", somme/n}' logs/access.log[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ awk '$9 == 200 {gsub(/ms/, "", $11); somme += $11; n++} END {if (n > 0) printf "%.1f ms\n", somme/n}' logs/access.log
+[?2004l165,0 ms
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk '{d=$11[27m[7m;[27m[7m sub(/ms/, "", d); if (d > max) {max=d; ligne=$0}} END {print ligne}' logs/a[27m[7mc[27m[7mcess.log[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ awk '{d=$11; sub(/ms/, "", d); if (d > max) {max=d; ligne=$0}} END {print ligne}' logs/access.log
+[?2004l10.0.0.22 - - [23/Nov/2026:08:08:21 +0000] "POST /api/auth/login HTTP/1.1" 200 1173 99ms
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mawk '{d=$11[27m[7m;[27m[7m sub(/ms/, "", d); print d, $0}' logs/access.log | sort -nr | head -1[27m[Aawk '{d=$11; sub(/ms/, "", d); print d, $0}' logs/access.log | sort -nr | head -1
+[?2004l2875 10.0.0.14 - - [23/Nov/2026:10:54:17 +0000] "POST /api/paiements HTTP/1.1" 201 3725 2875ms
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mgrep -oE '\[27m[7m[[27m[7m[^]]+' logs/access.log | cut -d: -f2 | sort | uniq -c[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ grep -oE '\[[^]]+' logs/access.log | cut -d: -f2 | sort | uniq -c
+[?2004l    561 08
+    559 09
+    551 10
+    329 11
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mgrep -E '" [27m[7m[[27m[7m5][0-9]{2} ' logs/access.log > logs/erreurs_5xx.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ grep -E '" [5][0-9]{2} ' logs/access.log > logs/erreurs_5xx.log
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mwc -l logs/[27m[7me[27m[7mrreurs_5xx.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ wc -l logs/erreurs_5xx.log
+[?2004l29 logs/erreurs_5xx.log
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7msed -E 's/^[27m[7m[[27m[7m0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/' logs/access.log > logs/access_anonym[27m[7me[27m[7m.log[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ sed -E 's/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/x.x.x.x/' logs/access.log > logs/access_anonyme.log
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mhead -n 3 l[27m[7mo[27m[7mgs/access_anonyme.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ head -n 3 logs/access_anonyme.log
+[?2004lx.x.x.x - - [23/Nov/2026:08:00:04 +0000] "GET /api/etudiants/66 HTTP/1.1" 404 126 301ms
+x.x.x.x - - [23/Nov/2026:08:00:06 +0000] "GET /api/etudiants HTTP/1.1" 200 387 14ms
+x.x.x.x - - [23/Nov/2026:08:00:18 +0000] "POST /api/auth/login HTTP/1.1" 200 1920 171ms
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mfind . -typ[27m[7me[27m[7m f -name "*.log" -mmin -60 -size +1k -exec wc -l {} +[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ find . -type f -name "*.log" -mmin -60 -size +1k -exec wc -l {} +
+[?2004l   198 ./docs/preuves/linux.log
+  2000 ./logs/access.log
+    29 ./logs/erreurs_5xx.log
+  2000 ./logs/access_anonyme.log
+  4227 total
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nano script s/analyse.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;35r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[33;30H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 7.2                  scripts/analyse.sh                           [1;76H(B[m[34d(B[0;7m^G(B[m Aide[34;16H(B[0;7m^O(B[m Écrire[31G(B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper[61G(B[0;7m^T(B[m Exécuter[35d(B[0;7m^X(B[m Quitter     (B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller[61G(B[0;7m^J(B[m Justifier[2d[?12l[?25h[?25l[1;52H(B[0;7m*[33d(B[m[K[1;76H[2d[32mfi[4dif[39m(B[m [32m[[[39m(B[m [32m!(B[0;1m[35m -f[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m]];[39m(B[m [32mthen[5;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : fichier introuvable"[39m(B[m [32m>&[39m(B[m2[6;5H[32mexit[39m(B[m 2[7d[32mfi[9dif[39m(B[m [32m[[[39m(B[m [32m!(B[0;1m[35m -s[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m]];[39m(B[m [32mthen[10;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : fichier vide"[39m(B[m [32m>&[39m(B[m2[11;5H[32mexit[39m(B[m 3[12d[32mfi[14dif[39m(B[m [32m[[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${MATRICULE:-}"[39m(B[m [32m]];[39m(B[m [32mthen[15;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : MATRICULE non défini"[39m(B[m [32m>&[39m(B[m2[16;5H[32mexit[39m(B[m 4[17d[32mfi[39m(B[m[?12l[?25h[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: scripts/analyse.sh                                  [33;44H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;52H(B[0;7m [76G(B[m[33;29H(B[0;7m[ 34 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[17;3H[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nano scripts/analyse.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;35r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[33;32H(B[0;7m[ Lecture... ](B[m[33;27H(B[0;7m[ Lecture de 34 lignes ](B[m[H(B[0;7m  GNU nano 7.2                  scripts/analyse.sh                           [1;76H(B[m[34d(B[0;7m^G(B[m Aide[34;16H(B[0;7m^O(B[m Écrire[31G(B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper[61G(B[0;7m^T(B[m Exécuter[35d(B[0;7m^X(B[m Quitter     (B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller[61G(B[0;7m^J(B[m Justifier[2d[36m#!/bin/bash[3d(B[0;1m[34mset[39m(B[m -euo pipefail[5d(B[0;1m[32musage(B[0m[32m()[39m(B[m [32m{[6;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Usage : bash scripts/analyse.sh <fichier.log> [--top N]"[39m(B[m [32m>&[39m(B[m2[7;5H[32mexit[39m(B[m 1[8d[32m}[10dif[39m(B[m [32m[[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-lt[39m(B[m 1 [32m||[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-gt[39m(B[m 3 [32m]];[39m(B[m [32mthen[11;5H[39m(B[musage[12d[32mfi[14d[39m(B[mFICHIER[32m=(B[0;1m[33m"$1"[15d[39m(B[mTOP[32m=[39m(B[m3[17d[32mif[39m(B[m [32m[[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-eq[39m(B[m 3 [32m]];[39m(B[m [32mthen[18;5H[[[39m(B[m (B[0;1m[33m"$2"[39m(B[m [32m==[39m(B[m (B[0;1m[33m"--top"[39m(B[m [32m&&[39m(B[m (B[0;1m[33m"$3"[39m(B[m [32m=[39m(B[m~ ^[32m[[39m(B[m0-9[32m][39m(B[m+[32m$[39m(B[m [32m]][39m(B[m [32m||[39m(B[m usage[19;5HTOP[32m=(B[0;1m[33m"$3"[20d(B[0m[32mfi[22dif[39m(B[m [32m[[[39m(B[m [32m!(B[0;1m[35m -f[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m]];[39m(B[m [32mthen[23;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : fichier introuvable"[39m(B[m [32m>&[39m(B[m2[24;5H[32mexit[39m(B[m 2[25d[32mfi[27dif[39m(B[m [32m[[[39m(B[m [32m!(B[0;1m[35m -s[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m]];[39m(B[m [32mthen[28;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : fichier vide"[39m(B[m [32m>&[39m(B[m2[29;5H[32mexit[39m(B[m 3[30d[32mfi[32dif[39m(B[m [32m[[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${MATRICULE:-}"[39m(B[m [32m]];[39m(B[m [32mthen[2d[39m(B[m[?12l[?25h[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: scripts/analyse.sh                                  [33;44H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;76H[33;29H(B[0;7m[ 34 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[2d[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[33d[K[?12l[?25h[22d[?25l[?12l[?25h[23d[?25l[?12l[?25h[24d[?25l[?12l[?25h[25d[?25l[?12l[?25h[26d[?25l[?12l[?25h[27d[?25l[?12l[?25h[28d[?25l[?12l[?25h[29d[?25l[?12l[?25h[30d[?25l[?12l[?25h[31d[?25l[?12l[?25h[32d[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : MATRICULE non défini"[39m(B[m [32m>&[39m(B[m2[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;5H[32mexit[39m(B[m 4[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;1H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;52H(B[0;7m*[76G(B[m[2d[32mif[39m(B[m [32m[[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${MATRICULE:-}"[39m(B[m [32m]];[39m(B[m [32mthen[39m(B[m[K[3;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : MATRICULE non défini"[39m(B[m [32m>&[39m(B[m2[4d    [32mexit[39m(B[m 4[5d[32mfi[6d(B[0;1m[32mcompter_statuts(B[0m[32m()[39m(B[m [32m{[39m(B[m[K[7;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== Codes HTTP ==="[8d[39m(B[m    [32mfor[39m(B[m code [32min[39m(B[m 2 3 4 5[32m;[39m(B[m [32mdo[9;9H[39m(B[mnombre[32m=$((B[0;1m[34mawk[35m -v[39m(B[m c[32m=(B[0;1m[33m"$code"[39m(B[m (B[0;1m[33m'$9 ~ "^" c {n++} END {print n+0}'[39m(B[m (B[0;1m[33m"$FICHI[39m(B[0;7m>[10;8H(B[m[1K (B[0;1m[34mecho[39m(B[m (B[0;1m[33m"${code}xx : $nombre"[11d[39m(B[m    [32mdone[12d}[13d[39m(B[m[K[14d(B[0;1m[32mtop_endpoints(B[0m[32m()[39m(B[m [32m{[39m(B[m[K[15;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== Top $TOP endpoints ==="[16d[39m(B[m    (B[0;1m[34mawk[35m -F[33m'"'[39m(B[m (B[0;1m[33m'{print $2}'[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m|[17;9H(B[0;1m[34mawk[39m(B[m (B[0;1m[33m'{print $2}'[39m(B[m [32m|[18;8H[39m(B[m[1K (B[0;1m[34mcut[35m -d[33m'?'[39m(B[m -f1 [32m|[39m(B[m[K[19;5H    (B[0;1m[34msort[39m(B[m [32m|[39m(B[m uniq(B[0;1m[35m -c[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[39m(B[m -nr [32m|[39m(B[m (B[0;1m[34mhead[35m -n[39m(B[m (B[0;1m[33m"$TOP"[20d(B[0m[32m}[39m(B[m[K[21d[K[22d(B[0;1m[32mip_suspecte(B[0m[32m()[39m(B[m [32m{[23d[39m(B[m    (B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== IP avec le plus de réponses 401 sur /api/auth/login ==="[24;5H[34mawk[39m(B[m (B[0;1m[33m'$9 == 401 && $7 == "/api/auth/login" {print $1}'[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m|[25;5H[39m(B[m    (B[0;1m[34msort[39m(B[m [32m|[39m(B[m uniq(B[0;1m[35m -c[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[39m(B[m -nr [32m|[39m(B[m (B[0;1m[34mhead[39m(B[m -1[26d[32m}[39m(B[m[K[28d(B[0;1m[32mmoyenne_temps(B[0m[32m()[39m(B[m [32m{[39m(B[m[K[29;11H(B[0;1m[33m=== Durée moyenne des réponses 200 ==="[30;5H[34mawk[39m(B[m '(B[0;1m[31m$9[39m(B[m [32m==[39m(B[m 200 [32m{[39m(B[md[32m=(B[0;1m[31m$1[39m(B[m1[32m;[39m(B[m sub[32m([39m(B[m/ms/, (B[0;1m[33m""[39m(B[m, d[32m);[39m(B[m somme+[32m=[39m(B[md[32m;[39m(B[m n++[32m}[31d[39m(B[m    END [32m{if([39m(B[mn[32m>[39m(B[m0[32m)[39m(B[m (B[0;1m[34mprintf[39m(B[m (B[0;1m[33m"%.1f ms\n"[39m(B[m, somme/n[32m;[39m(B[m [32melse[39m(B[m print (B[0;1m[33m"Aucune requête 200[39m(B[0;7m>[32;1H(B[0m[32m}[39m(B[m[?12l[?25h[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: scripts/analyse.sh                                  [33;44H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;52H(B[0;7m [76G(B[m[33;29H(B[0;7m[ 61 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[32;2H[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash -n scr[27m[7mi[27m[7mpts/analyse.sh[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash -n scripts/analyse.sh
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mecho "$MATR[27m[7mI[27m[7mCULE"[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ echo "$MATRICULE"
+[?2004l8651143
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash script[27m[7ms[27m[7m/analyse.sh logs/access.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash scripts/analyse.sh logs/access.log
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash -n scr[27m[7mi[27m[7mpts/analyse.sh [27m
+[7mecho $?[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash -n scripts/analyse.sh
+echo $?
+[?2004l0
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mecho "$MATR[27m[7mI[27m[7mCULE"[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ echo "$MATRICULE"
+[?2004l8651143
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash -x scr[27m[7mi[27m[7mpts/analyse.sh logs/access.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash -x scripts/analyse.sh logs/access.log
+[?2004l+ set -euo pipefail
++ [[ 1 -lt 1 ]]
++ [[ 1 -gt 3 ]]
++ FICHIER=logs/access.log
++ TOP=3
++ [[ 1 -eq 3 ]]
++ [[ ! -f logs/access.log ]]
++ [[ ! -s logs/access.log ]]
++ [[ -z 8651143 ]]
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mtail -n 35 [27m[7ms[27m[7mcripts/analyse.sh[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ tail -n 35 scripts/analyse.sh
+[?2004l    echo "Erreur : fichier vide" >&2
+    exit 3
+fi
+
+if [[ -z "${MATRICULE:-}" ]]; then
+    echo "Erreur : MATRICULE non défini" >&2
+    exit 4
+fi
+compter_statuts() {
+    echo "=== Codes HTTP ==="
+    for code in 2 3 4 5; do
+        nombre=$(awk -v c="$code" '$9 ~ "^" c {n++} END {print n+0}' "$FICHIER")
+        echo "${code}xx : $nombre"
+    done
+}
+
+top_endpoints() {
+    echo "=== Top $TOP endpoints ==="
+    awk -F'"' '{print $2}' "$FICHIER" |
+        awk '{print $2}' |
+        cut -d'?' -f1 |
+        sort | uniq -c | sort -nr | head -n "$TOP"
+}
+
+ip_suspecte() {
+    echo "=== IP avec le plus de réponses 401 sur /api/auth/login ==="
+    awk '$9 == 401 && $7 == "/api/auth/login" {print $1}' "$FICHIER" |
+        sort | uniq -c | sort -nr | head -1
+}
+
+moyenne_temps() {
+    echo "=== Durée moyenne des réponses 200 ==="
+    awk '$9 == 200 {d=$11; sub(/ms/, "", d); somme+=d; n++}
+    END {if(n>0) printf "%.1f ms\n", somme/n; else print "Aucune requête 200"}' "$FICHIER"
+}
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mnano script[27m[7ms[27m[7m/analyse.sh[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nano scripts/analyse.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;35r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[33;32H(B[0;7m[ Lecture... ](B[m[33;27H(B[0;7m[ Lecture de 61 lignes ](B[m[H(B[0;7m  GNU nano 7.2                  scripts/analyse.sh                           [1;76H(B[m[34d(B[0;7m^G(B[m Aide[34;16H(B[0;7m^O(B[m Écrire[31G(B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper[61G(B[0;7m^T(B[m Exécuter[35d(B[0;7m^X(B[m Quitter     (B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller[61G(B[0;7m^J(B[m Justifier[2d[36m#!/bin/bash[3d(B[0;1m[34mset[39m(B[m -euo pipefail[5d(B[0;1m[32musage(B[0m[32m()[39m(B[m [32m{[6;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Usage : bash scripts/analyse.sh <fichier.log> [--top N]"[39m(B[m [32m>&[39m(B[m2[7;5H[32mexit[39m(B[m 1[8d[32m}[10dif[39m(B[m [32m[[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-lt[39m(B[m 1 [32m||[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-gt[39m(B[m 3 [32m]];[39m(B[m [32mthen[11;5H[39m(B[musage[12d[32mfi[14d[39m(B[mFICHIER[32m=(B[0;1m[33m"$1"[15d[39m(B[mTOP[32m=[39m(B[m3[17d[32mif[39m(B[m [32m[[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-eq[39m(B[m 3 [32m]];[39m(B[m [32mthen[18;5H[[[39m(B[m (B[0;1m[33m"$2"[39m(B[m [32m==[39m(B[m (B[0;1m[33m"--top"[39m(B[m [32m&&[39m(B[m (B[0;1m[33m"$3"[39m(B[m [32m=[39m(B[m~ ^[32m[[39m(B[m0-9[32m][39m(B[m+[32m$[39m(B[m [32m]][39m(B[m [32m||[39m(B[m usage[19;5HTOP[32m=(B[0;1m[33m"$3"[20d(B[0m[32mfi[22dif[39m(B[m [32m[[[39m(B[m [32m!(B[0;1m[35m -f[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m]];[39m(B[m [32mthen[23;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : fichier introuvable"[39m(B[m [32m>&[39m(B[m2[24;5H[32mexit[39m(B[m 2[25d[32mfi[27dif[39m(B[m [32m[[[39m(B[m [32m!(B[0;1m[35m -s[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m]];[39m(B[m [32mthen[28;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : fichier vide"[39m(B[m [32m>&[39m(B[m2[29;5H[32mexit[39m(B[m 3[30d[32mfi[32dif[39m(B[m [32m[[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${MATRICULE:-}"[39m(B[m [32m]];[39m(B[m [32mthen[2d[39m(B[m[?12l[?25h[?25l[33;23H(B[0;7m[ Enregistrement d'une macro... ](B[m[1;74H(B[0;7mR (B[m[?12l[?25h[2d[?25l[?12l[?25h[5d[?25l[?12l[?25h[8d[?25l[?12l[?25h[12d[?25l[?12l[?25h[15d[?25l[?12l[?25h[18d[?25l[?12l[?25h[21d[?25l[33d[K[?12l[?25h[24d[?25l[?12l[?25h[27d[?25l[?12l[?25h[30d[?25l[?12l[?25h[32d[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Erreur : MATRICULE non défini"[39m(B[m [32m>&[39m(B[m2[32;5H[32mexit[39m(B[m 4[?25l[?12l[?25h7[2;33r8[33d[3S[1;35r[30;1H[32mfi[31d(B[0;1m[32mcompter_statuts(B[0m[32m()[39m(B[m [32m{[32;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== Codes HTTP ==="[39m(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;5H[32mfor[39m(B[m code [32min[39m(B[m 2 3 4 5[32m;[39m(B[m [32mdo[32;9H[39m(B[mnombre[32m=$((B[0;1m[34mawk[35m -v[39m(B[m c[32m=(B[0;1m[33m"$code"[39m(B[m (B[0;1m[33m'$9 ~ "^" c {n++} END {print n+0}'[39m(B[m (B[0;1m[33m"$FICHI[39m(B[0;7m>[32;1H(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;9H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"${code}xx : $nombre"[32;5H(B[0m[32mdone[39m(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;1H[32m}[32d[39m(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;1H(B[0;1m[32mtop_endpoints(B[0m[32m()[39m(B[m [32m{[32;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== Top $TOP endpoints ==="[39m(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;5H(B[0;1m[34mawk[35m -F[33m'"'[39m(B[m (B[0;1m[33m'{print $2}'[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m|[32;9H(B[0;1m[34mawk[39m(B[m (B[0;1m[33m'{print $2}'[39m(B[m [32m|[39m(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;9H(B[0;1m[34mcut[35m -d[33m'?'[39m(B[m -f1 [32m|[32;9H(B[0;1m[34msort[39m(B[m [32m|[39m(B[m uniq(B[0;1m[35m -c[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[39m(B[m -nr [32m|[39m(B[m (B[0;1m[34mhead[35m -n[39m(B[m (B[0;1m[33m"$TOP"[39m(B[m[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;1H[32m}[39m(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[32;1H(B[0;1m[32mip_suspecte(B[0m[32m()[39m(B[m [32m{[39m(B[m[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== IP avec le plus de réponses 401 sur /api/auth/login ==="[39m(B[m[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;5H(B[0;1m[34mawk[39m(B[m (B[0;1m[33m'$9 == 401 && $7 == "/api/auth/login" {print $1}'[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m|[39m(B[m[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;9H(B[0;1m[34msort[39m(B[m [32m|[39m(B[m uniq(B[0;1m[35m -c[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[39m(B[m -nr [32m|[39m(B[m (B[0;1m[34mhead[39m(B[m -1[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;1H[32m}[39m(B[m[?25l[?12l[?25h7[2;33r8[33d
+[1;35r[32;1H[?25l[?12l[?25h7[2;33r8[33d[4S[1;35r[29;1H(B[0;1m[32mmoyenne_temps(B[0m[32m()[39m(B[m [32m{[30;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== Durée moyenne des réponses 200 ==="[31;5H[34mawk[39m(B[m '(B[0;1m[31m$9[39m(B[m [32m==[39m(B[m 200 [32m{[39m(B[md[32m=(B[0;1m[31m$1[39m(B[m1[32m;[39m(B[m sub[32m([39m(B[m/ms/, (B[0;1m[33m""[39m(B[m, d[32m);[39m(B[m somme+[32m=[39m(B[md[32m;[39m(B[m n++[32m}[32;5H[39m(B[mEND [32m{if([39m(B[mn[32m>[39m(B[m0[32m)[39m(B[m (B[0;1m[34mprintf[39m(B[m (B[0;1m[33m"%.1f ms\n"[39m(B[m, somme/n[32m;[39m(B[m [32melse[39m(B[m print (B[0;1m[33m"Aucune requête 200[39m(B[0;7m>[32;1H(B[m[?25l[?12l[?25h7[2;33r8[33d[2S[1;35r[31;1H[32m}[32d[39m(B[m[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;52H(B[0;7m*[76G(B[m[2;5H(B[0;1m[34mawk[39m(B[m (B[0;1m[33m'$9 == 401 && $7 == "/api/auth/login" {print $1}'[39m(B[m (B[0;1m[33m"$FICHIER"[39m(B[m [32m|[3;5H[39m(B[m    (B[0;1m[34msort[39m(B[m [32m|[39m(B[m uniq(B[0;1m[35m -c[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[39m(B[m -nr [32m|[39m(B[m (B[0;1m[34mhead[39m(B[m -1[4d[32m}[39m(B[m[K[5d[K[6d(B[0;1m[32mmoyenne_temps(B[0m[32m()[39m(B[m [32m{[39m(B[m[K[7;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"=== Durée moyenne des réponses 200 ==="[8;5H[34mawk[39m(B[m '(B[0;1m[31m$9[39m(B[m [32m==[39m(B[m 200 [32m{[39m(B[md[32m=(B[0;1m[31m$1[39m(B[m1[32m;[39m(B[m sub[32m([39m(B[m/ms/, (B[0;1m[33m""[39m(B[m, d[32m);[39m(B[m somme+[32m=[39m(B[md[32m;[39m(B[m n++[32m}[39m(B[m[K[9;5HEND [32m{if([39m(B[mn[32m>[39m(B[m0[32m)[39m(B[m (B[0;1m[34mprintf[39m(B[m (B[0;1m[33m"%.1f ms\n"[39m(B[m, somme/n[32m;[39m(B[m [32melse[39m(B[m print (B[0;1m[33m"Aucune requête 200[39m(B[0;7m>[10;1H(B[0m[32m}[39m(B[m[K[11dDATE[32m=$([39m(B[mdate +%Y%m%d_%H%M[32m)[12d[39m(B[mRAPPORT[32m=(B[0;1m[33m"rapports/rapport_${MATRICULE}_${DATE}.txt"[13d[39m(B[m[K[14d[32m{[39m(B[m[K[15;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"RAPPORT D'ANALYSE DES LOGS"[39m(B[m[K[16;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Date : $(date)"[39m(B[m[K[17;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Utilisateur / Machine : $(whoami)@$(hostname)"[18;5H[34mecho[39m(B[m (B[0;1m[33m"Matricule : $MATRICULE"[39m(B[m[K[19d    (B[0;1m[34mecho[39m(B[m (B[0;1m[33m"SHA256 : $(sha256sum "[31m$FICHIER[33m" | awk '{print $1}')"[20;5H[34mecho[21d[39m(B[m[K[22;5Hcompter_statuts[K[23;5H(B[0;1m[34mecho[39m(B[m[K[24;5Htop_endpoints[K[25d    (B[0;1m[34mecho[26;5H[39m(B[mip_suspecte[27d    (B[0;1m[34mecho[39m(B[m[K[28;5Hmoyenne_temps[K[29d[K[30d[32m}[39m(B[m [32m>[39m(B[m (B[0;1m[33m"$RAPPORT"[39m(B[m[K[31d[K[32d(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Rapport créé : $RAPPORT"[39m(B[m[?12l[?25h[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: scripts/analyse.sh                                  [33;44H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;52H(B[0;7m [76G(B[m[33;29H(B[0;7m[ 83 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[32;31H[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash script[27m[7ms[27m[7m/analyse.sh logs/access.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash scripts/analyse.sh logs/access.log
+[?2004lRapport créé : rapports/rapport_8651143_20261123_1154.txt
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mls -lh rapp[27m[7mo[27m[7mrts/[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ls -lh rapports/
+[?2004ltotal 4,0K
+-rw-rw-r-- 1 mairame-thierno mairame-thierno 512 nov.  23 11:54 rapport_8651143_20261123_1154.txt
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mcat rapport[27m[7ms[27m[7m/rapport_8651143_20261123_1154.txt[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ cat rapports/rapport_8651143_20261123_1154.txt
+[?2004lRAPPORT D'ANALYSE DES LOGS
+Date : lun. 23 nov. 2026 11:54:17 GMT
+Utilisateur / Machine : mairame-thierno@mairame-thierno-ThinkPad-T480
+Matricule : 8651143
+SHA256 : 907bf47d0d145a917da22f7917a835e5afbf97c3060a1e84ff6fdc71da3b1ed0
+
+=== Codes HTTP ===
+2xx : 1716
+3xx : 0
+4xx : 255
+5xx : 29
+
+=== Top 3 endpoints ===
+    411 /api/auth/login
+    278 /api/paiements
+    272 /api/cours
+
+=== IP avec le plus de réponses 401 sur /api/auth/login ===
+    126 197.149.36.4
+
+=== Durée moyenne des réponses 200 ===
+165,0 ms
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash script[27m[7ms[27m[7m/analyse.sh [27m
+[7mecho $?[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash scripts/analyse.sh
+echo $?
+[?2004lUsage : bash scripts/analyse.sh <fichier.log> [--top N]
+1
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash script[27m[7ms[27m[7m/analyse.sh logs/inexistant.log [27m
+[7mecho $?[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash scripts/analyse.sh logs/inexistant.log
+echo $?
+[?2004lErreur : fichier introuvable
+2
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mtouch logs/[27m[7mv[27m[7mide.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ touch logs/vide.log
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash script[27m[7ms[27m[7m/analyse.sh logs/vide.log [27m
+[7mecho $?[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash scripts/analyse.sh logs/vide.log
+echo $?
+[?2004lErreur : fichier vide
+3
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mtouch logs/[27m[7mv[27m[7mide.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ touch logs/vide.log
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mbash script[27m[7ms[27m[7m/analyse.sh logs/vide.log [27m
+[7mecho $?[27m[A[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ bash scripts/analyse.sh logs/vide.log
+echo $?
+[?2004lErreur : fichier vide
+3
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mnano docs/l[27m[7mi[27m[7mnux.md[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nano docs/linux.md
+[?2004l[?2004h[?1049h[22;0;0t[1;35r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[33;30H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 7.2                    docs/linux.md                              [1;76H(B[m[34d(B[0;7m^G(B[m Aide[34;16H(B[0;7m^O(B[m Écrire[31G(B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper[61G(B[0;7m^T(B[m Exécuter[35d(B[0;7m^X(B[m Quitter     (B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller[61G(B[0;7m^J(B[m Justifier[2d[?12l[?25h[?25l[1;49H(B[0;7m*[33d(B[m[K[1;76H[2d(B[0;1m[33m# Compte rendu Linux[4d## Script analyse.sh[6d[35m- [39m(B[mFichier valide : rapport généré.[7d(B[0;1m[35m- [39m(B[mFichier inexistant : code retour 2.[8d(B[0;1m[35m- [39m(B[mFichier vide : code retour 3.[9d(B[0;1m[35m- [39m(B[mAucun argument : code retour 1.[?12l[?25h[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: docs/linux.md                                       [33;39H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;49H(B[0;7m [76G(B[m[33;29H(B[0;7m[ 8 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[9;34H[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mnano script[27m[7ms[27m[7m/surveille.sh[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nano scripts/surveille.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;35r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[33;30H(B[0;7m[ Nouveau fichier ](B[m[H(B[0;7m  GNU nano 7.2                 scripts/surveille.sh                          [1;76H(B[m[34d(B[0;7m^G(B[m Aide[34;16H(B[0;7m^O(B[m Écrire[31G(B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper[61G(B[0;7m^T(B[m Exécuter[35d(B[0;7m^X(B[m Quitter     (B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller[61G(B[0;7m^J(B[m Justifier[2d[?12l[?25h[?25l[1;53H(B[0;7m*[33d(B[m[K[1;76H[2d[36m#!/bin/bash[4d[39m(B[mFICHIER[32m=(B[0;1m[33m"logs/access.log"[5d[39m(B[mJOURNAL[32m=(B[0;1m[33m"logs/surveillance.log"[7d[32marret(B[0m[32m()[39m(B[m [32m{[8;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"$(date) - Arrêt propre de la surveillance"[39m(B[m [32m>>[39m(B[m (B[0;1m[33m"$JOURNAL"[9;5H(B[0m[32mexit[39m(B[m 0[10d[32m}[12d[39m(B[mtrap arret SIGTERM[14d[32mwhile[39m(B[m true[32m;[39m(B[m [32mdo[15;5H[39m(B[mHEURE[32m=$([39m(B[mdate (B[0;1m[33m'+%Y-%m-%d %H:%M:%S'(B[0m[32m)[16;5H[39m(B[mLIGNES[32m=$([39m(B[mwc(B[0;1m[35m -l[39m(B[m [32m<[39m(B[m (B[0;1m[33m"$FICHIER"(B[0m[32m)[17;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"$HEURE - Nombre de lignes : $LIGNES"[39m(B[m [32m>>[39m(B[m (B[0;1m[33m"$JOURNAL"[18;5H[39m(B[msleep 5[19d[32mdone[39m(B[m[?12l[?25h[?25l[34;16H    (B[0;7mM-D(B[m Format DOS     (B[0;7mM-A(B[m Ajout (à la fin(B[0;7mM-B(B[m Copie de sécu.[35;2H(B[0;7mC(B[m Annul[16G    (B[0;7mM-M(B[m Format Mac     (B[0;7mM-P(B[m Ajout (au début(B[0;7m^T(B[m Parcourir[K[33d(B[0;7mNom du fichier à écrire: scripts/surveille.sh                                [33;46H(B[m[?12l[?25h[?25l[33;31H[1K (B[0;7m[ Écriture... ](B[m[K[1;53H(B[0;7m [76G(B[m[33;29H(B[0;7m[ 18 lignes écrites ](B[m[34;16H(B[0;7m^O(B[m Écrire      (B[0;7m^W(B[m Chercher    (B[0;7m^K(B[m Couper      (B[0;7m^T(B[m Exécuter[K[35;2H(B[0;7mX(B[m Quitt[16G(B[0;7m^R(B[m Lire fich.  (B[0;7m^\(B[m Remplacer   (B[0;7m^U(B[m Coller      (B[0;7m^J(B[m Justifier[?12l[?25h[19;5H[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [K]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mnohup bash [27m[7ms[27m[7mcripts/surveille.sh > /dev/null 2>&1 &[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ nohup bash scripts/surveille.sh > /dev/null 2>&1 &
+[?2004l[1] 42076
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mpgrep -f '[[27m[7ms[27m[7m]cripts/surveille.sh'[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ pgrep -f '[s]cripts/surveille.sh'
+[?2004l42076
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mps -o PID,P[27m[7mP[27m[7mID,state,etime -p TON_PID[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ps -o PID,PP[1PID,state,etime -p TON_PI[K[K[K[K[K[K42076
+[?2004lerreur: spécificateur de format défini par l'utilisateur « PID » inconnu
+
+Usage:
+ ps [options]
+
+ Essayez 'ps --aide <simple|liste|sortie|threads|divers|tous>'
+  ou 'ps --aide <s|l|o|h|d|t>'
+ pour plus d'aide.
+
+Pour plus de détails, consultez ps(1).
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mps -p 42076[27m[7m [27m[7m-o pid,ppid,state,etime[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ ps -p 42076 -o pid,ppid,state,etime
+[?2004l    PID    PPID S     ELAPSED
+  42076   27954 S       01:35
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mkill -TERM [27m[7m4[27m[7m2076[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ kill -TERM 42076
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mtail -n 3 l[27m[7mo[27m[7mgs/surveillance.log[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ tail -n 3 logs/surveillance.log
+[?2004l2026-11-23 12:04:24 - Nombre de lignes : 2000
+2026-11-23 12:04:29 - Nombre de lignes : 2000
+lun. 23 nov. 2026 12:04:34 GMT - Arrêt propre de la surveillance
+[1]+  Fini                    nohup bash scripts/surveille.sh > /dev/null 2>&1
+[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mhistory > d[27m[7mo[27m[7mcs/preuves/historique_linux.txt[27m[A]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ history > docs/preuves/historique_linux.txt
+[?2004l[?2004h]0;mairame-thierno@mairame-thierno-ThinkPad-T480: ~/dbe-eval-8651143[01;32mmairame-thierno@mairame-thierno-ThinkPad-T480[00m:[01;34m~/dbe-eval-8651143[00m$ [7mexit[27mexit
+[?2004lexit
+
+Script terminé sur 2026-11-23 12:07:07+00:00 [COMMAND_EXIT_CODE="0"]
